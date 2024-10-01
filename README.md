@@ -12,7 +12,7 @@ For ```pyg_lib```, ```torch_cluster```, ```torch_scatter```, ```torch_sparse``` 
 pip install pyg_lib-0.1.0+pt112cu102-cp39-cp39-linux_x86_64.whl torch_cluster-1.6.0+pt112cu102-cp39-cp39-linux_x86_64.whl torch_scatter-2.1.0+pt112cu102-cp39-cp39-linux_x86_64.whl torch_sparse-0.6.16+pt112cu102-cp39-cp39-linux_x86_64.whl torch_spline_conv-1.2.1+pt112cu102-cp39-cp39-linux_x86_64.whl
 ```
 ## Data preparation
-It is assumed that you have a data frame of HackForums posts, obtained from CrimeBB. 
+It is assumed that you have a dataset in a csv format. 
 
 ## Training
 Run the following commands to train:
