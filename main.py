@@ -1,14 +1,7 @@
 '''
 We adapted the code provided by Zijian Cai et al. (2024), and their publicly available code from the GitHub repository:
 https://github.com/czjdsg/LMBot
-
-@inproceedings{cai2024lmbot,
-  title={LMbot: distilling graph knowledge into language model for graph-less deployment in twitter bot detection},
-  author={Cai, Zijian and Tan, Zhaoxuan and Lei, Zhenyu and Zhu, Zifeng and Wang, Hongrui and Zheng, Qinghua and Luo, Minnan},
-  booktitle={Proceedings of the 17th ACM International Conference on Web Search and Data Mining},
-  pages={57--66},
-  year={2024}
-}
+ 
 '''
 
 from parser_args import parser_args
