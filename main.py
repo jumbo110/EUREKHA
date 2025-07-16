@@ -1,6 +1,5 @@
 '''
-We adapted the code provided by Zijian Cai et al. (2024), and their publicly available code from the GitHub repository:
-https://github.com/czjdsg/LMBot
+We adapted the code provided by Zijian Cai et al. (2024).
  
 '''
 
